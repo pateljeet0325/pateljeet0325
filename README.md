@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=JEET%20PATEL&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20AI&descSize=18&descAlignY=72&descAlign=50" width="100%" />
 
   <br/>
+  <!-- DYNAMIC PROFILE VIEWS COUNTER -->
+  <img src="https://komarev.com/ghpvc/?username=pateljeet0325&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+  <br/><br/>
 
   <!-- DYNAMIC TYPING TEXT -->
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Analysis+%26+Visualization;SQL+%2B+Python+%2B+Power+BI;AI-Driven+Analytics+Solutions" alt="Typing SVG" />
