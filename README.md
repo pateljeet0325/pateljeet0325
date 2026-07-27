@@ -109,12 +109,10 @@ I am a **Data Analyst** focused on turning complex datasets into actionable busi
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljeet0325&theme=dark&hide_border=true" width="97%" />
+  <!-- WORKING STREAK STATS ALTERNATIVE -->
+  <img src="https://streak-stats.demolab.com?user=pateljeet0325&theme=dark&hide_border=true" width="97%" />
 
 </div>
-
-<br/>
-
 ---
 
 <div align="center">
