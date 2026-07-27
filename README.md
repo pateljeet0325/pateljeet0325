@@ -111,8 +111,7 @@ I am a **Data Analyst** focused on turning complex datasets into actionable busi
 
   <br/><br/>
 
-  <!-- RELIABLE ACTIVITY GRAPH -->
-  <img src="https://ghchart.rshah.org/pateljeet0325" alt="Jeet's Github Chart" width="97%" />
+  <img src="https://ghchart.rshah.org/40c463/pateljeet0325" alt="Jeet's Github Chart" width="97%" />
 
 </div>
 ---
