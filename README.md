@@ -1,14 +1,12 @@
 <div align="center">
 
   <!-- HEADER GRAPHIC -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=JEET%20PATEL&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20AI&descSize=18&descAlignY=72&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=JEET%20PATEL&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20AI&descSize=18&descAlignY=72&descAlign=50" width="100%" />
 
   <br/>
 
   <!-- DYNAMIC TYPING TEXT -->
-  <a href="https://github.com/pateljeet0325">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Analysis+%26+Visualization;SQL+%2B+Python+%2B+Power+BI;AI-Driven+Analytics+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Analysis+%26+Visualization;SQL+%2B+Python+%2B+Power+BI;AI-Driven+Analytics+Solutions" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -98,22 +96,25 @@ I am a **Data Analyst** focused on turning complex datasets into actionable busi
 
 ---
 
-## 📈 GitHub Analytics
-
-## 📈 GitHub Analytics
+## 📈 Activity & Skill Focus
 
 <br/>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pateljeet0325&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljeet0325&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <!-- NATIVE METRICS CARDS USING RELIABLE SHIELDS -->
+  <img src="https://img.shields.io/badge/Primary_Language-Jupyter_Notebooks-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Core_Stack-Python_%7C_SQL_%7C_Power_BI-blue?style=for-the-badge&logo=python" />
 
   <br/><br/>
 
+  <!-- RELIABLE CONTRIBUTION CHART -->
   <img src="https://ghchart.rshah.org/40c463/pateljeet0325" alt="Jeet's Github Chart" width="97%" />
 
 </div>
+
+<br/>
+
 ---
 
 <div align="center">
