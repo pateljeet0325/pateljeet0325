@@ -100,17 +100,19 @@ I am a **Data Analyst** focused on turning complex datasets into actionable busi
 
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <br/>
 
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pateljeet0325&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pateljeet0325&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pateljeet0325&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljeet0325&layout=compact&theme=dark&hide_border=true" width="48%" />
 
   <br/><br/>
 
-  <!-- WORKING STREAK STATS ALTERNATIVE -->
-  <img src="https://streak-stats.demolab.com?user=pateljeet0325&theme=dark&hide_border=true" width="97%" />
+  <!-- RELIABLE ACTIVITY GRAPH -->
+  <img src="https://ghchart.rshah.org/pateljeet0325" alt="Jeet's Github Chart" width="97%" />
 
 </div>
 ---
