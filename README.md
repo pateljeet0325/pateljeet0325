@@ -1,91 +1,122 @@
 <div align="center">
 
-# ⚡ JEET PATEL
+  <!-- HEADER GRAPHIC -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=JEET%20PATEL&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20AI&descSize=18&descAlignY=72&descAlign=50" width="100%" />
 
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-%7C_Business_Intelligence-1f2937?style=for-the-badge&labelColor=111827&color=3b82f6)
-![AI Enthusiast](https://img.shields.io/badge/AI_%26_LLM-%7C_Pydantic_AI-1f2937?style=for-the-badge&labelColor=111827&color=8b5cf6)
+  <br/>
 
-**Building decision-ready analytics & AI solutions using Python, SQL, PostgreSQL & Power BI**
+  <!-- DYNAMIC TYPING TEXT -->
+  <a href="https://github.com/pateljeet0325">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Data+Analysis+%26+Visualization;SQL+%2B+Python+%2B+Power+BI;AI-Driven+Analytics+Solutions" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pateljeet0325)
-![Profile Views](https://img.shields.io/badge/Profile_Views-100+-008080?style=for-the-badge)
+  <br/><br/>
 
-<br />
-
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=JEET%20PATEL&fontSize=50&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20AI&descSize=18&descAlignY=75" width="100%" />
+  <!-- QUICK CONTACT SHIELDS -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pateljeet0325"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
-
-## 🧩 01 — Who I Am
-
-I am a **Data Analyst** passionate about transforming raw, unstructured datasets into clear business insights and predictive AI models. My workflow spans data extraction, exploratory analysis, interactive dashboards, and automating backend workflows with modern AI frameworks.
+<br/>
 
 ---
 
-## 🧰 02 — Tech Stack
+## 🚀 About Me
 
-### **Programming**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</p>
-
-### **Analytics & Data Processing**
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### **Visualization**
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Database & Backend**
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Pydantic AI](https://img.shields.io/badge/PYDANTIC_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-### **Tools & Version Control**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
+I am a **Data Analyst** focused on turning complex datasets into actionable business intelligence. My work centers around **exploratory data analysis (EDA)**, **SQL database querying**, **interactive BI dashboards**, and integrating **AI-driven tools** into modern analytical workflows.
 
 ---
 
-## 🌟 03 — Featured Projects
+## 🛠️ Tech Stack
 
-### 🛒 [Olist E-Commerce Sales Analytics](https://github.com/pateljeet0325/olist-ecommerce-sales-analytics)
-- **Focus:** Exploratory Data Analysis, Revenue Optimization, Customer Segmentation.
-- **Tech Stack:** `Python`, `Pandas`, `Matplotlib`, `Jupyter Notebook`
-- **Summary:** Applied EDA techniques to analyze order distribution, seller performance, and payment trends across thousands of transactions.
-
-### 🤖 [Pydantic AI Chat](https://github.com/pateljeet0325/pydantic-ai-chat)
-- **Focus:** AI Workflows, Structured LLM Outputs.
-- **Tech Stack:** `Python`, `Pydantic AI`, `APIs`
-- **Summary:** Built an AI interaction engine leveraging Pydantic schemas to validate and format model outputs reliably.
-
----
-
-## 📊 04 — GitHub Activity
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pateljeet0325&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljeet0325&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+### **Programming & Data Analysis**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br/><br/>
+
+### **Visualization & Business Intelligence**
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<br/><br/>
+
+### **Databases & AI Tools**
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
-<br />
+<br/>
+
+---
+
+## 📊 Featured Projects
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Olist E-Commerce Analytics</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      </p>
+      <p>Comprehensive exploratory data analysis on e-commerce transaction data to identify sales trends, customer purchasing patterns, and vendor performance metrics.</p>
+      <p align="center">
+        <a href="https://github.com/pateljeet0325/olist-ecommerce-sales-analytics"><b>Explore Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Pydantic AI Chat</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat&logo=pydantic&logoColor=white" />
+      </p>
+      <p>AI response engine built to demonstrate structured LLM interactions, data validation schemas, and automated data processing pipelines.</p>
+      <p align="center">
+        <a href="https://github.com/pateljeet0325/pydantic-ai-chat"><b>Explore Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 📈 GitHub Analytics
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pateljeet0325&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pateljeet0325&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pateljeet0325&theme=dark&hide_border=true" width="97%" />
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  🌟 <b>Featured Technologies:</b> <code>Python</code> • <code>SQL</code> • <code>Power BI</code> • <code>PostgreSQL</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Data Analytics</code>
+  <sub>✨ Designed & Managed by Jeet Patel</sub>
 </div>
